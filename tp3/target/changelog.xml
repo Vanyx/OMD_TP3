@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog>
+  
+<changeset datePattern="yyyyMMdd HH:mm:ss z" start="20220910 14:54:41 CEST" end="20221011 14:54:41 CEST">
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2022-10-10</date>
+		<time pattern="HH:mm:ss">14:48:54</time>
+		<author><![CDATA[thomas benalouane <tbenalouane@e206m03.istic.univ-rennes1.fr>]]></author>
+		<file>
+			<action>added</action>
+			<name>README.md</name>
+			<revision>7c6100e33fdfb3ee842c58653558c3bcf8e17925</revision>
+		</file>
+		<msg><![CDATA[first commit]]></msg>
+	</changelog-entry>
+</changeset>
+
+</changelog>
